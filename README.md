@@ -4,3 +4,6 @@ data from an SQL database, performed semantic analysis on password characteristi
 engineering. Used TF-IDF for text vectorization and trained models for classification. Evaluated perfor￾mance and enabled real-time password strength prediction.
 # Technologies: 
 Python, SQL, Pandas, NumPy, Scikit-learn, NLTK, TF-IDF, Machine Learning, NLP.
+
+
+
